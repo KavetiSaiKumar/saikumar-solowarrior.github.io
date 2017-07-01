@@ -1,2 +1,3 @@
 name: Kaveti Sai Kumar 
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
